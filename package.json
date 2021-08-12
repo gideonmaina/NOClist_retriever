@@ -1,0 +1,13 @@
+{
+  "name": "noclist",
+  "version": "1.0.0",
+  "description": "Retrieve the NOC list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+ 
+  },
+  "author": "Giddie",
+  "license": "ISC",
+  "dependencies": {}
+}
